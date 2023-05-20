@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heart Disease&descAlignY=51&descAlign=62)
 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Heart%20Disease&descAlignY=51&descAlign=62)
 
- 
  ## Table Content :
    - [About Dataset](##About_Dataset)
       - [Context](###Context)
