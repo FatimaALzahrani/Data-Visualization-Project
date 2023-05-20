@@ -19,17 +19,15 @@
       - 11. [Summary](#Summary)
    - [ScreenShot](#ScreenShot)
 
-
+<hr>
 ## About_Dataset
 ### Context
 ##### This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
-<img width="213" alt="Context" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/d1d2346c-e9da-48e6-9df4-6f6321d3e63c">
-
-
 ### Content
 <img width="252" alt="Content" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/1c5cd98e-b367-4a10-967a-6a81910817c3">
 
+<hr>
 ## Visualization
  ### Stacked_Column_Chart
 ##### This chart can be used to show the distribution of heart disease cases based on the different types of chest pain (cp). Each column represents a specific chest pain type, and the height of the column represents the count or percentage of cases for that particular type. we add a (sex) as legend to differentiate between males and females where  green represent females and purple for male.
@@ -74,7 +72,7 @@
 ### Summary
 #### These charts help us visualize and analyze the relationships between various factors and heart disease incidence. By examining these relationships, we can identify potential risk factors, patterns, and correlations, which can inform medical professionals, researchers, and policymakers in the prevention, diagnosis, and treatment of heart disease.
 
-
+<hr>
 ## ScreenShot
 <img alt="Power BI Desktop 5_20_2023 5_31_38 PM" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/52ce7519-dcc0-48fd-8168-01bbdd8a8895">
 
