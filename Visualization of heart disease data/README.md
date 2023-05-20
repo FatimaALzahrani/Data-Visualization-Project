@@ -26,7 +26,7 @@
 ##### This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
 ### Content
-<img width="252" alt="Content" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/1c5cd98e-b367-4a10-967a-6a81910817c3">
+<img alt="Content" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/1c5cd98e-b367-4a10-967a-6a81910817c3">
 
 <hr/>
 
