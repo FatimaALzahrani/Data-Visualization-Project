@@ -76,7 +76,7 @@
 
 
 ## ScreenShot
-<img  alt="Power BI Desktop 5_20_2023 5_27_26 PM" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/8bc7e590-1bde-48fb-aee5-215c8a6c0001">
+<img alt="Power BI Desktop 5_20_2023 5_31_38 PM" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/52ce7519-dcc0-48fd-8168-01bbdd8a8895">
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F4DDDD&height=200&section=footer&fontSize=90)
