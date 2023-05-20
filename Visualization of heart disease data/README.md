@@ -7,7 +7,7 @@
       - [Content](#Content)
    - [Visualization](#Visualization)
    - [ScreenShot](#ScreenShot)
-      - [1. Stacked Column Chart](#Stacked Column Chart)
+      - 1.[Stacked Column Chart](#Stacked Column Chart)
 
 
 ## About_Dataset
