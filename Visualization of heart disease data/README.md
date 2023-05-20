@@ -75,6 +75,7 @@
 #### These charts help us visualize and analyze the relationships between various factors and heart disease incidence. By examining these relationships, we can identify potential risk factors, patterns, and correlations, which can inform medical professionals, researchers, and policymakers in the prevention, diagnosis, and treatment of heart disease.
 
 <hr/>
+
 ## ScreenShot
 <img alt="Power BI Desktop 5_20_2023 5_31_38 PM" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/52ce7519-dcc0-48fd-8168-01bbdd8a8895">
 
