@@ -20,6 +20,7 @@
    - [ScreenShot](#ScreenShot)
 
 <hr/>
+
 ## About_Dataset
 ### Context
 ##### This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
@@ -28,6 +29,7 @@
 <img width="252" alt="Content" src="https://github.com/FatimaALzahrani/Data-Visualization-Project/assets/107775566/1c5cd98e-b367-4a10-967a-6a81910817c3">
 
 <hr/>
+
 ## Visualization
 ### Stacked_Column_Chart
 ##### This chart can be used to show the distribution of heart disease cases based on the different types of chest pain (cp). Each column represents a specific chest pain type, and the height of the column represents the count or percentage of cases for that particular type. we add a (sex) as legend to differentiate between males and females where  green represent females and purple for male.
