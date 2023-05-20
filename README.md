@@ -1,0 +1,9 @@
+# Data Visualization 
+
+
+|   Title of dataset  |   Visualization   |  Dataset   |
+|:-----:|:-----:|:-----:|
+| (Heart Disease)[https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20heart%20disease%20data]|(Heart-Disease2.pbix)[https://app.powerbi.com/links/1xsiNP57u3?ctid=e45ef97d-561a-41ba-a0a9-0dfa35e6c4ca&pbi_source=linkShare&bookmarkGuid=5ed569e4-e33f-43fb-9caa-5d79c28961d8]|(heart.csv)[https://github.com/FatimaALzahrani/Data-Visualization-Project/blob/main/Visualization%20of%20heart%20disease%20data/heart.csv]|
+| (Sales1)[https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20Sales%20data/Visualize%20sales%20data1]|(Sales.pbix)[https://app.powerbi.com/links/VcaAEg1FqH?ctid=e45ef97d-561a-41ba-a0a9-0dfa35e6c4ca&pbi_source=linkShare&bookmarkGuid=3b25f2dc-3d39-465c-8520-b7f5a5a835ae]|(DIM_Customer.csv + DIM_Products.csv)[https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20Sales%20data/Visualize%20sales%20data1/Detasets] |
+| (Sales2)[https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20Sales%20data/%E2%80%8F%E2%80%8FVisualize%20sales%20data2] |(Sales2.pbix)[https://app.powerbi.com/links/wL0Dl_DWHC?ctid=e45ef97d-561a-41ba-a0a9-0dfa35e6c4ca&pbi_source=linkShare&bookmarkGuid=98d1cdcc-4a14-4ff9-9ddf-cdd96b09e944]|[DetaBase.bak](https://github.com/FatimaALzahrani/Data-Visualization-Project/blob/main/Visualization%20of%20Sales%20data/%E2%80%8F%E2%80%8FVisualize%20sales%20data2/DetaBase.bak)|
+|[Covid-19](https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20Covid-19%20data)|[Covid-19.pbix](https://app.powerbi.com/links/b_TwPJKfvY?ctid=e45ef97d-561a-41ba-a0a9-0dfa35e6c4ca&pbi_source=linkShare)|[Dataset](https://github.com/FatimaALzahrani/Data-Visualization-Project/tree/main/Visualization%20of%20Covid-19%20data/Dataset)|
